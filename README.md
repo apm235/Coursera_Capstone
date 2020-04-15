@@ -1,5 +1,6 @@
 # Coursera_Capstone
-## Welcome to my capstone course repository. Here you will find the following submissions:
+## Welcome to my capstone course repository. 
+### Here you will find the following submissions:
 - This readme file
 - Week 1 notebook that confirms this github repository was set up
 - Week 3 notebook that contains the Toronto segmentation and clustering assignment
